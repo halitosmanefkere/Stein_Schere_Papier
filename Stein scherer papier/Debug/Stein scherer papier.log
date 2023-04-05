@@ -1,0 +1,5 @@
+﻿  Stein scherer papier.cpp
+C:\Users\IBM W541\source\repos\Stein scherer papier\Stein scherer papier\Stein scherer papier.cpp(99): warning C4715: "gibNameZurueck": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\IBM W541\source\repos\Stein scherer papier\Stein scherer papier\Stein scherer papier.cpp(132): warning C4715: "frageWahlAb": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\IBM W541\source\repos\Stein scherer papier\Stein scherer papier\Stein scherer papier.cpp(149): warning C4715: "ermittleErgebnis": Nicht alle Codepfade geben einen Wert zurück.
+  Stein scherer papier.vcxproj -> C:\Users\IBM W541\source\repos\Stein scherer papier\Debug\Stein scherer papier.exe
